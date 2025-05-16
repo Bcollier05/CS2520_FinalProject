@@ -11,8 +11,8 @@ A personalized activity recommendation system with intelligent filtering and int
 
 - 🎯 **Personalized recommendations** based on:
   - Activity type preferences
-  - Budget constraints
-  - Group size (1-5 scale)
+  - Budget
+  - Group size
 - 👍 **Feedback system** (Like/Dislike/Pin)
 - 🌙 **Dark mode UI** with sage green accents
 - 📊 **Content-based filtering** using cosine similarity
